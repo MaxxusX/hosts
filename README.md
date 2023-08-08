@@ -2,7 +2,7 @@
 
 
 
-## DISCLAMER: most of the lists here were *not* made by me, i only formatted them to be used in the hosts file
+## DISCLAIMER: most of the lists here were *not* made by me, I only formatted them to be used in the hosts file
 
 
 
@@ -46,39 +46,8 @@ broken websites? remove L8X's Anti IP Logger and Dan Pollocks Hosts File (bottom
 * crazy-max - WindowsSpyBlocker
 * and of course, Dan Pollock - the og hosts file
 
-* and everyone else who helped with Dan Pollocks Hosts file:\n
-Bill Allison, Harj Basi, Lance Russhing, Marshall Drew-Brook, 
-Leigh Brasington, Scott Terbush, Cary Newfeldt, Kaye, Jeff
-Scrivener, Mark Hudson, Matt Bells, T. Kim Nguyen, Lino Demasi,
-Marcelo Volmaro, Troy Martin, Donald Kerns, B.Patten-Walsh,
-bobeangi, Chris Maniscalco, George Gilbert, Kim Nilsson, zeromus,
-Robert Petty, Rob Morrison, Clive Smith, Cecilia Varni, OleKing 
-Cole, William Jones, Brian Small, Raj Tailor, Richard Heritage,
-Alan Harrison, Ordorica, Crimson, Joseph Cianci, sirapacz, 
-Dvixen, Matthew Craig, Tobias Hessem, Kevin F. Quinn, Thomas 
-Corthals, Chris McBee, Jaime A. Guerra, Anders Josefson, 
-Simon Manderson, Spectre Ghost, Darren Tay, Dallas Eschenauer, Cecilia
-Varni, Adam P. Cole, George Lefkaditis, grzesiek, Adam Howard, Mike 
-Bizon, Samuel P. Mallare, Leinweber, Walter Novak, Stephen Genus, 
-Zube, Johny Provoost, Peter Grafton, Johann Burkard, Magus, Ron Karner,
-Fredrik Dahlman, Michele Cybula, Bernard Conlu, Riku B, Twillers, 
-Shaika-Dzari, Vartkes Goetcherian, Michael McCown, Garth, Richard Nairn,
-Exzar Reed, Robert Gauthier, Floyd Wilder, Mark Drissel, Kenny Lyons,
-Paul Dunne, Tirath Pannu, Mike Lambert, Dan Kolcun, Daniel Aleksandersen,
-Chris Heegard, Miles Golding, Daniel Bisca, Frederic Begou, Charles 
-Fordyce, Mark Lehrer, Sebastien Nadeau-Jean, Russell Gordon, Alexey 
-Gopachenko, Stirling Pearson, Alan Segal, Bobin Joseph, Chris Wall, Sean
-Flesch, Brent Getz, Jerry Cain, Brian Micek, Lee Hancock, Kay Thiele,
-Kwan Ting Chan, Wladimir Labeikovsky, Lino Demasi, Bowie Bailey, Andreas 
-Marschall, Michael Tompkins, Michael O'Donnell, José Lucas Teixeira
-de Oliveira, M. Ömer Gölgeli, Anthony Gelibert, Russell O'Connor,
-kwadronaut, John Mueller and Lawrence H Smith, and Jesse Baird
-
-
-
-
-
-
+* and everyone else who helped with Dan Pollocks Hosts file:
+	* Bill Allison, Harj Basi, Lance Russhing, Marshall Drew-Brook, Leigh Brasington, Scott Terbush, Cary Newfeldt, Kaye, Jeff Scrivener, Mark Hudson, Matt Bells, T. Kim Nguyen, Lino Demasi, Marcelo Volmaro, Troy Martin, Donald Kerns, B.Patten-Walsh, bobeangi, Chris Maniscalco, George Gilbert, Kim Nilsson, zeromus, Robert Petty, Rob Morrison, Clive Smith, Cecilia Varni, OleKing Cole, William Jones, Brian Small, Raj Tailor, Richard Heritage, Alan Harrison, Ordorica, Crimson, Joseph Cianci, sirapacz, Dvixen, Matthew Craig, Tobias Hessem, Kevin F. Quinn, Thomas Corthals, Chris McBee, Jaime A. Guerra, Anders Josefson, Simon Manderson, Spectre Ghost, Darren Tay, Dallas Eschenauer, Cecilia Varni, Adam P. Cole, George Lefkaditis, grzesiek, Adam Howard, Mike Bizon, Samuel P. Mallare, Leinweber, Walter Novak, Stephen Genus, Zube, Johny Provoost, Peter Grafton, Johann Burkard, Magus, Ron Karner, Fredrik Dahlman, Michele Cybula, Bernard Conlu, Riku B, Twillers, Shaika-Dzari, Vartkes Goetcherian, Michael McCown, Garth, Richard Nairn, Exzar Reed, Robert Gauthier, Floyd Wilder, Mark Drissel, Kenny Lyons, Paul Dunne, Tirath Pannu, Mike Lambert, Dan Kolcun, Daniel Aleksandersen, Chris Heegard, Miles Golding, Daniel Bisca, Frederic Begou, Charles Fordyce, Mark Lehrer, Sebastien Nadeau-Jean, Russell Gordon, Alexey Gopachenko, Stirling Pearson, Alan Segal, Bobin Joseph, Chris Wall, Sean Flesch, Brent Getz, Jerry Cain, Brian Micek, Lee Hancock, Kay Thiele, Kwan Ting Chan, Wladimir Labeikovsky, Lino Demasi, Bowie Bailey, Andreas Marschall, Michael Tompkins, Michael O'Donnell, José Lucas Teixeira de Oliveira, M. Ömer Gölgeli, Anthony Gelibert, Russell O'Connor, kwadronaut, John Mueller and Lawrence H Smith, and Jesse Baird
 
 
 
