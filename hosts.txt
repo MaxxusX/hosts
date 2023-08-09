@@ -43,6 +43,7 @@
 #  RPiList - Win10Telemetry
 #  ThioJoe - SpamDomains
 #  crazy-max - WindowsSpyBlocker
+#  Disconnect - SimpleTracking
 #  and of course, Dan Pollock - the og hosts file
 #
 # and everyone else who helped with Dan Pollocks Hosts file:
@@ -91,10 +92,7 @@
 # Win10Telemetry (https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Win10Telemetry) - RPiList
 # SpamDomains (https://raw.githubusercontent.com/ThioJoe/YT-Spam-Lists/main/SpamDomainsList.txt) - ThioJoe
 # WindowsSpyBlocker (https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt) - crazy-max
-# ?
-# ?
-# ?
-# ?
+# SimpleTracking (https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt) - Disconnect
 # Anti IP Logger (https://raw.githubusercontent.com/L8X/Anti-IP-Logger-Blocklist/main/blocklist.txt) - L8X
 # Dan Pollock's Hosts file (https://someonewhocares.org/hosts/zero/hosts) - Dan Pollock
 
@@ -109,6 +107,27 @@
 
 ############# START LIST #############
 
+
+
+########## Whitelist ##########
+# Formatting: '-<domain>'
+
+-grabify.link #⚠⚠⚠ REMOVE THIS LINE UNLESS YOU USE IT!! ⚠⚠⚠#
+-localhost
+-ip6-localhost
+-0.0.0.0
+-127.0.0.1
+-hell.sh
+-adf.ly
+-bit.ly
+-goo.gl
+-tinyurl.com
+-s.youtube.com
+-video-stats.l.google.com
+-analytics.twitter.com
+-storage.googleapis.com
+-forms.gle
+-mega.nz
 
 
 ########## localhost ##########
@@ -158,9 +177,45 @@ ff02::3	ip6-allhosts
 0.0.0.0 ncs.roblox.com
 
 # Fake Krnl websites (the REAL website is https://krnl.place) btw krnl is ̶cu̶r̶r̶e̶n̶t̶l̶y̶ ̶p̶a̶t̶c̶h̶e̶d WORKING!!!!
+0.0.0.0 krnl.ca # OLD DOMAIN!! USE krnl.place INSTEAD!!
+
+0.0.0.0 krnl.rocks # NO LONGER OWNED BY KRNL, MAY REDIRECT TO MALWARE
 0.0.0.0 krnl.dev
 0.0.0.0 krnl.live
+0.0.0.0 krnl.wiki
+0.0.0.0 krnlofficial.com
+0.0.0.0 krnl.us.org
+0.0.0.0 krnl.win
+0.0.0.0 krnl.shop
+0.0.0.0 krnl.gg
+0.0.0.0 krnl.codes
 
+# Fake Optifine websites (caffinemc better)
+0.0.0.0 optifine.me
+0.0.0.0 optifine.co
+0.0.0.0 optifine.tk
+0.0.0.0 optifine.ga
+0.0.0.0 optifine.gq
+0.0.0.0 optifine.ml
+0.0.0.0 optifine.cf
+0.0.0.0 optifine.top
+0.0.0.0 optifine.pro
+0.0.0.0 optifine.com
+0.0.0.0 optifine.co.de
+0.0.0.0 optifine.com.de
+0.0.0.0 optifine.net.de
+
+# Miners
+0.0.0.0 coinhive.com
+0.0.0.0 coin-hive.com
+0.0.0.0 load.jsecoin.com
+0.0.0.0 crypto-loot.com
+0.0.0.0 webmine.pro
+0.0.0.0 cryptoloot.pro
+0.0.0.0 analytics.blue
+0.0.0.0 p.hemnes.win
+0.0.0.0 coin-have.com
+0.0.0.0 browsermining.io
 
 
 
@@ -18719,6 +18774,52 @@ ff02::3	ip6-allhosts
 0.0.0.0 win8.ipv6.microsoft.com
 0.0.0.0 xblgdvrassets3010.blob.core.windows.net
 0.0.0.0 ztd.dds.microsoft.com
+
+
+
+
+
+
+### Disconnect's SimpleTracking (https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt) ###
+0.0.0.0 adjust.io
+0.0.0.0 airbrake.io
+0.0.0.0 appboy.com
+0.0.0.0 appsflyer.com
+0.0.0.0 apsalar.com
+0.0.0.0 bango.combango.org
+0.0.0.0 bango.net
+0.0.0.0 bkrtx.com
+0.0.0.0 bluekai.com
+0.0.0.0 bugsense.com
+0.0.0.0 burstly.com
+0.0.0.0 chartboost.com
+0.0.0.0 count.ly
+0.0.0.0 crashlytics.com
+0.0.0.0 crittercism.com
+0.0.0.0 do-not-tracker.org
+0.0.0.0 eviltracker.net
+0.0.0.0 flurry.com
+0.0.0.0 getexceptional.com
+0.0.0.0 inmobi.com
+0.0.0.0 jumptap.com
+0.0.0.0 localytics.com
+0.0.0.0 mixpanel.com
+0.0.0.0 mobile-collector.newrelic.com
+0.0.0.0 mobileapptracking.com
+0.0.0.0 playtomic.com
+0.0.0.0 stathat.com
+0.0.0.0 supercell.net
+0.0.0.0 tapjoy.com
+0.0.0.0 trackersimulator.org
+0.0.0.0 usergrid.com
+0.0.0.0 vungle.com
+
+
+
+
+
+
+
 
 
 
