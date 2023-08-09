@@ -62,9 +62,6 @@ broken websites? remove L8X's Anti IP Logger and Dan Pollocks Hosts File (bottom
 * Win10Telemetry (https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Win10Telemetry) - RPiList
 * SpamDomains (https://raw.githubusercontent.com/ThioJoe/YT-Spam-Lists/main/SpamDomainsList.txt) - ThioJoe
 * WindowsSpyBlocker (https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt) - crazy-max
-* ?
-* ?
-* ?
-* ?
+* SimpleTracking (https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt) - Disconnect
 * Anti IP Logger (https://raw.githubusercontent.com/L8X/Anti-IP-Logger-Blocklist/main/blocklist.txt) - L8X
 * Dan Pollock's Hosts file (https://someonewhocares.org/hosts/zero/hosts) - Dan Pollock
