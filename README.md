@@ -44,6 +44,7 @@ broken websites? remove L8X's Anti IP Logger and Dan Pollocks Hosts File (bottom
 * RPiList - Win10Telemetry
 * ThioJoe - SpamDomains
 * crazy-max - WindowsSpyBlocker
+* Disconnect - SimpleTracking
 * and of course, Dan Pollock - the og hosts file
 
 * and everyone else who helped with Dan Pollocks Hosts file:
